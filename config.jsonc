@@ -5,9 +5,9 @@
         "source": "~/.config/fastfetch/owl.txt",
         "padding": {
             "top": 1,
-            "bottom": 0,
+            "bottom": 1,
             "left": 2,
-            "right": 0
+            "right": 2
         },
         "color": {
             "1": "blue",
